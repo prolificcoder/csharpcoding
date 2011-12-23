@@ -1,6 +1,8 @@
-
 *.pdb
 *.exe
 *.suo
 *.cache
 *.user
+bin/
+obj/
+Properties/
