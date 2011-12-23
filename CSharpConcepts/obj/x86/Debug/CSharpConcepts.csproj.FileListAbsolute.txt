@@ -1,0 +1,5 @@
+C:\Users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\CSharpConcepts\bin\Debug\CSharpConcepts.exe
+C:\Users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\CSharpConcepts\bin\Debug\CSharpConcepts.pdb
+C:\Users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\CSharpConcepts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\CSharpConcepts\obj\x86\Debug\CSharpConcepts.exe
+C:\Users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\CSharpConcepts\obj\x86\Debug\CSharpConcepts.pdb

@@ -1,0 +1,5 @@
+C:\Users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\Arrays\bin\Debug\Arrays.exe
+C:\Users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\Arrays\bin\Debug\Arrays.pdb
+C:\Users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\Arrays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\Arrays\obj\x86\Debug\Arrays.exe
+C:\Users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\Arrays\obj\x86\Debug\Arrays.pdb

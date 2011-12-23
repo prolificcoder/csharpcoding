@@ -1,0 +1,12 @@
+c:\users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\CareerCupProblems\bin\Debug\CareerCupProblems.exe
+c:\users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\CareerCupProblems\bin\Debug\CareerCupProblems.pdb
+c:\users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\CareerCupProblems\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\CareerCupProblems\obj\x86\Debug\CareerCupProblems.exe
+c:\users\satyajit\documents\visual studio 2010\Projects\CareerCupProblems\CareerCupProblems\obj\x86\Debug\CareerCupProblems.pdb
+C:\Users\satyajit\Documents\My Dropbox\Code\CareerCupProblems\CareerCupProblems\bin\Debug\CareerCupProblems.exe
+C:\Users\satyajit\Documents\My Dropbox\Code\CareerCupProblems\CareerCupProblems\bin\Debug\CareerCupProblems.pdb
+C:\Users\satyajit\Documents\My Dropbox\Code\CareerCupProblems\CareerCupProblems\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\satyajit\Documents\My Dropbox\Code\CareerCupProblems\CareerCupProblems\obj\x86\Debug\CareerCupProblems.exe
+C:\Users\satyajit\Documents\My Dropbox\Code\CareerCupProblems\CareerCupProblems\obj\x86\Debug\CareerCupProblems.pdb
+C:\Users\satyajit\workspace\csharpcoding\CareerCupProblems\obj\x86\Debug\CareerCupProblems.exe
+C:\Users\satyajit\workspace\csharpcoding\CareerCupProblems\obj\x86\Debug\CareerCupProblems.pdb
