@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CodeChef</RootNamespace>
     <AssemblyName>CodeChef</AssemblyName>
-    <TargetFrameworkVersion>v3.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -35,7 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CodeChef.ATM</StartupObject>
+    <StartupObject>CodeChef.PrimesRange</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,7 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ATM.cs" />
+    <Compile Include="ByteLandian.cs" />
     <Compile Include="LifeUniverse.cs" />
+    <Compile Include="PrimesRange.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
